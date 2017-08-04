@@ -1,4 +1,4 @@
-package com.bilelovic.warsh.kiraate.model;
+package com.bilelovic.warsh.kiraate.domain;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

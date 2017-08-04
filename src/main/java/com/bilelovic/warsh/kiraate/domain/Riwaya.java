@@ -1,4 +1,4 @@
-package com.bilelovic.warsh.kiraate.model;
+package com.bilelovic.warsh.kiraate.domain;
 
 public enum Riwaya {
 
